@@ -60,7 +60,7 @@ Inspired by the biological immune system, this project uses the **Negative Selec
 
 ## 📈 Visuals
 
-_(include your threshold vs. recall/precision/F1 plot here)_
+_(placeholder: threshold vs. recall/precision/F1 plot here)_
 
 
 
@@ -71,15 +71,6 @@ Unlike supervised models, this system:
 - Can generalize to new topics/styles
 - Is interpretable and tunable
 - Inspired by real-world immune response design
-
-
-
-## 🧩 Bonus (Optional, If Time Allows)
-
-- [ ] Apply to **LIAR dataset**
-- [ ] Compare with existing **MC Hybrid model** results
-- [ ] Evaluate generalization across datasets
-
 
 
 ## 📂 Project Structure
