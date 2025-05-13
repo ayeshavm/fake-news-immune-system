@@ -42,7 +42,7 @@ def generate_detectors(num_detectors, vector_dim, self_matrix, threshold=0.5, no
     if len(detectors) < num_detectors:
         print(f"Warning: Only generated {len(detectors)} detectors after {attempts} attempts.")
 
-    print(f"✅ Generated {len(detectors)} detectors in {attempts} attempts (threshold={threshold}, noise_std={noise_std})")
+    print(f"Generated {len(detectors)} detectors in {attempts} attempts (threshold={threshold}, noise_std={noise_std})")
     return np.array(detectors)
 
 
